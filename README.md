@@ -30,6 +30,3 @@ I am always open to learning new technologies and collaborating on interesting p
 
 ---
 
-[![Visitors](https://visitcount.itsvg.in/api?id=alkuarium&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
